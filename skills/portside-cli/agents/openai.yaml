@@ -1,0 +1,4 @@
+interface:
+  display_name: "Portside CLI"
+  short_description: "Operate Portside CLI safely"
+  default_prompt: "Use $portside-cli to inspect and troubleshoot Portside CLI profiles, prefixes, logs, and runner state."
